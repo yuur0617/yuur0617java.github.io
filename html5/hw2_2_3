@@ -1,0 +1,15 @@
+<!doctype htm> <!--hw2_1_1.html-->
+<html lang="ko">
+<head>
+ <meta charset="uft-8"/>
+ <title>2주차 과제</title>
+</head>
+<body>
+ <h1>2주차 과제</h1>
+ <p>No.3 변학도</p>
+ <h2>소스코드</h2>
+ <img src="https://yuur0617.github.io/img/20xx02x4s1_big.jpg">
+ <h3>결과화면</h3>
+ <img src="https://yuur0617.github.io/img/20xx02x4r1_big.jpg">
+</body>
+</html>
